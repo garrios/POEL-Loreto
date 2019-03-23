@@ -30,6 +30,7 @@ En este informe se presenta la siguiente información:
    Caracterización, Diagnóstico, Pronóstico \(ver Figura 2\).
 
 2. Sistema de Información Geográfica integrado por todas las capas temátics utilizadas y generadas durante el desarrollo de las etapas \(Apéndice 1\).
+
 3. Mapa del Modelo de Ordenamiento Ecológico que incluye la delimitación de las Unidades de Gestión Ambiental \(UGA\) y la identificación individualizada la política ambiental correspondiente y las actividades de mayor aptitud.
 4. Archivo de metadatos del Modelo de Ordenamiento Ecológico.
 5. Tablas asociadas al Modelo de Ordenamiento Ecológico donde se señalen los lineamientos ecológicos que corresponden a cada UGA.
@@ -40,4 +41,6 @@ Figura 2. Diagrama de Etapas para la elaboración del Programa de Ordenamiento E
 ```
 
 ## 
+
+
 
