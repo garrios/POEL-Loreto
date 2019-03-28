@@ -1,10 +1,10 @@
 {
-  "name": "just-the-docs",
-  "version": "0.2.3",
-  "description": "A modern Jekyll theme for documentation",
-  "repository": "pmarsceill/just-the-docs",
+  "name": "POEL Loreto",
+  "version": "0.2.0",
+  "description": "Repositorio Digital del POEL",
+  "repository": "bajaloreto/POEL-Loreto",
   "license": "MIT",
-  "bugs": "https://github.com/pmarsceill/just-the-docs/issues",
+  "bugs": "https://github.com/bajaloreto/POEL-Loreto/issues",
   "devDependencies": {
     "stylelint": "^9.10.1",
     "stylelint-config-primer": "^3.0.1"
