@@ -1,3 +1,9 @@
+---
+layout: default
+title: Características Físicas
+nav_order: 8
+---
+
 # CARACTERISTICAS FISICAS
 
 ## UBICACIÓN, DELIMITACIÓN DEL ÁREA
