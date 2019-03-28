@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Configuration
+title: Diagnostico / Pronostico
 nav_order: 2
+has_children: true
+permalink: docs/diag-pronos
 ---
 
 # Configuration
