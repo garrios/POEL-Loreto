@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Diagnostico / Pronostico
+title: Diagnostico Pronostico
 nav_order: 2
 has_children: true
 permalink: docs/diag-pronos

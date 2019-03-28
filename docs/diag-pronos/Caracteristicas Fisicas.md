@@ -1,8 +1,10 @@
 ---
 layout: default
 title: Características Físicas
-nav_order: 8
+parent: Diagnostico Pronostico
+nav_order: 1
 ---
+
 
 # CARACTERISTICAS FISICAS
 
