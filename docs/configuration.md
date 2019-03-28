@@ -34,8 +34,9 @@ search_enabled: true
 ```yaml
 # Aux links for the upper right navigation
 aux_links:
-    "Just the Docs on GitHub":
-      - "//github.com/pmarsceill/just-the-docs"
+    "Plataforma Digital ePOEL Loreto B.C.S.":
+      - "https://bajaloreto.github.io/ePOEL/"
+      # - "//github.com/pmarsceill/just-the-docs"
 ```
 
 ## Color scheme
@@ -68,5 +69,5 @@ See [Customization]({{ site.baseurl }}{% link docs/customization.md %}) for more
 ```yaml
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
-ga_tracking: UA-5555555-55
+ga_tracking: UA-61296918-4
 ```
