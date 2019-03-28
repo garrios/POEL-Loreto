@@ -1,6 +1,6 @@
 # CARACTERISTICAS FISICAS
 
-# UBICACIÓN, DELIMITACIÓN DEL ÁREA
+## UBICACIÓN, DELIMITACIÓN DEL ÁREA
 
 El Municipio de Loreto se localiza en la parte central del estado de Baja California Sur, dentro de las coordenadas 26°33' 11" y 25°12' 15" latitud norte y 111° 46”22’ y 110°55”15’ longitud oeste. Presenta una superficie de 4,311 Km^2 , incluyendo el territorio de cinco islas que pertenecen a este Municipio, con un litoral de 223 kilómetros (Figura 3) (INEGI 2000, Centro Estatal de Información 2001, Steinitz _et al_. 2005, Ayuntamiento de Loreto 2005, Centro Estatal de Información 2006).
 

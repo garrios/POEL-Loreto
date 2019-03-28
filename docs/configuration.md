@@ -20,7 +20,7 @@ Just the Docs has some specific configuration parameters that can be defined in 
 ---
 
 
-View this site's [_config.yml](https://github.com/bajaloreto/POEL-Loreto/blob/master/_config.yml) file as an example.
+View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.
 
 ## Search enabled
 
@@ -35,8 +35,8 @@ search_enabled: true
 # Aux links for the upper right navigation
 aux_links:
     "Plataforma Digital ePOEL Loreto B.C.S.":
-      - "https://bajaloreto.github.io/ePOEL/"
-      # - "//github.com/pmarsceill/just-the-docs"
+      - "//github.com/pmarsceill/just-the-docs"
+
 ```
 
 ## Color scheme
@@ -69,5 +69,5 @@ See [Customization]({{ site.baseurl }}{% link docs/customization.md %}) for more
 ```yaml
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
-ga_tracking: UA-61296918-4
+ga_tracking: UA-1234567-89
 ```
