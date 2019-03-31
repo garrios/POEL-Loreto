@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Indice](README.md)
+* [Introducción](README.md)
 
 ## Diagnostico - Pronostico
 
