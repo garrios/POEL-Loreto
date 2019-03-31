@@ -13,7 +13,7 @@
 
 ## Propuesta
 
-* [Definición](propuesta/untitled.md)
+* [Definición](propuesta/definicion.md)
 * [Politicas ambientales](propuesta/politicas-ambientales.md)
 * [Lineamientos Ecológicos](propuesta/lineamientos-ecologicos.md)
 * [Estrategias Ecológicas](propuesta/estrategias-ecologicas.md)
