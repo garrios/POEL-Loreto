@@ -1,4 +1,4 @@
-# Introduccion
+# Introducción
 
 La Secretaría de Medio Ambiente y Recursos Naturales \(SEMARNAT\) ha establecido como no de sus programas prioritarios, impulsar la formulación e instrumentación de procesos de Ordenamientos Ecológicos Territoriales \(OE\) al nivel regional, estatal o municipal, de conformidad con el Reglamento de la Ley General del Equilibrio Ecológico y Protección al Ambiente en materia de Ordenamiento Ecológico \(LGEEPA 2003\). En cumplimiento con lo anterior el 29 de mayo de 2006 en la Ciudad de La Paz, BCS, se suscribió el Convenio de Coordinación del Ordenamiento Ecológico Local del Municipio de Loreto, el cual se llevó a cabo en coordinación con el Gobierno Federal, representado por la Secretaría de Medio Ambiente y Recursos Naturales \(SEMARNAT\), el Gobierno de Baja California Sur y el Municipio de Loreto, con el fin de iniciar un proceso de planeación que tiene como principal objetivo promover el desarrollo sustentable del Municipio.
 
