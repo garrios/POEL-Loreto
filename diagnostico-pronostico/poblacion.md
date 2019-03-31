@@ -15,20 +15,9 @@ municipal, con más de 10,000 habitantes (INEGI 2005).
 
 ### TASA DE CRECIMIENTO POBLACIONAL
 
-En el estado de Baja California Sur, la tendencia de la tasa de crecimiento anual de la población fue
-ascendente de 1950 a 1980, y en las siguientes décadas presentó una tendencia descendente (Tabla
-1) (INEGI 2005, Centro Estatal de Información 2006). Lo anterior se traduce en un incremento
-significativo de la población en la entidad de 1950 a 1991 y después de este año se tiene un
-incremento bajo. El aumento de la población en el estado, de 437,531 personas en el año 2000 a
-502,623 personas en el 2005, representó un alto crecimiento del 15% en tan solo cinco años.
+En el estado de Baja California Sur, la tendencia de la tasa de crecimiento anual de la población fue ascendente de 1950 a 1980, y en las siguientes décadas presentó una tendencia descendente (Tabla 1) (INEGI 2005, Centro Estatal de Información 2006). Lo anterior se traduce en un incremento significativo de la población en la entidad de 1950 a 1991 y después de este año se tiene un incremento bajo. El aumento de la población en el estado, de 437,531 personas en el año 2000 a 502,623 personas en el 2005, representó un alto crecimiento del 15% en tan solo cinco años.
 
-Aunque Loreto es el Municipio de menor población del estado, ha presentado una tasa de
-crecimiento relativamente alta y estable, comparado con la tasa estatal, que ha oscilado entre 4.0 y
-6.6% para los periodos 1960-1970 y 1970-1980. La tasa de crecimiento fue para el periodo 1980-
-1990, de 3.9% anual, un poco arriba de la tasa promedio estatal, mientras que en el periodo 1995-
-2000 se presenta una tasa de crecimiento de 3.16% anual. Lo anterior representó un incremento de
-la población de 7,239 a 9,986 habitantes para el primer periodo y de 9,989 a 11,812 habitantes en el
-segundo periodo.
+Aunque Loreto es el Municipio de menor población del estado, ha presentado una tasa de crecimiento relativamente alta y estable, comparado con la tasa estatal, que ha oscilado entre 4.0 y 6.6% para los periodos 1960-1970 y 1970-1980. La tasa de crecimiento fue para el periodo 1980-1990, de 3.9% anual, un poco arriba de la tasa promedio estatal, mientras que en el periodo 1995-2000 se presenta una tasa de crecimiento de 3.16% anual. Lo anterior representó un incremento de la población de 7,239 a 9,986 habitantes para el primer periodo y de 9,989 a 11,812 habitantes en el segundo periodo.
 
 ```
 Tabla 1. Tasa de crecimiento promedio anual de la población en Baja California Sur, 1950-2000 y
