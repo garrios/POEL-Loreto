@@ -9,7 +9,7 @@ Cabos y en algunas regiones del sur del Estado. Loreto desde 1990 presenta el n�
 habitantes por Municipio en la entidad y el 87% de la población se encuentra concentrada en la
 cabecera municipal. En 2005 se reportaron 126 asentamientos humanos, 101 de ellos con menos de
 10 habitantes, 18 de 11 a 100 habitantes, 3 de 101 a 500 habitantes y uno de ellos, la cabecera
-municipal, con más de 10,000 habitantes (INEGI 2005).
+municipal, con más de 10,000 habitantes (INEGI 2005)..
 
 ## ANÁLISIS DE TENDENCIAS DE LA POBLACIÓN
 

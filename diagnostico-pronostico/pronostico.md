@@ -60,4 +60,4 @@ En letras **rojas** remarcado el déficit del acuífero.
 Se realizó un análisis del cambio de uso de suelo considerando los registrados desde los 1970s a la
 fecha y proyectando los posibles cambios que se podrían generar ubicando las áreas donde es más
 factible ocurran los cambios y donde mayores presiones existirán sobre los recursos naturales
-(Apéndice 9).
+(Apéndice 9)...

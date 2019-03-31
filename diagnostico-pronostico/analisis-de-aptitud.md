@@ -3,7 +3,7 @@
 Utilizando el Modelo de clasificación simple a partir de la ponderación de valores asignados a los
 atributos ambientales potencialmente cartografiables, referidos para el desarrollo de la actividad cada
 sector, se obtuvieron los pesos normalizados para el sector Conservación (Tabla 2), Turismo (Tabla
-3) y Comunidades pesqueras (Tabla 4).
+3) y Comunidades pesqueras (Tabla 4)..
 
 ## TALLERES SECTORIALES
 

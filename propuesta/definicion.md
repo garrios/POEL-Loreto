@@ -282,7 +282,7 @@ especies de aves acuáticas residentes e invernantes que llegan a la costa del M
 no dejar en situación de aislamiento los manglares de la zona costera de este Municipio. Se hizo la
 consideración de estudios diversos a nivel mundial que han demostrado que es mejor tener algunas
 áreas continuas relativamente grandes para conectar poblaciones que varias discontinuas (Figura
-25).
+25)...
 
 ```
 Figura 24. Modelo de Ordenamiento Ecológico del Municipio de Loreto. Unidades de Gestión con las politicas

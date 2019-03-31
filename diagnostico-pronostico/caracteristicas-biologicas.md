@@ -3,7 +3,7 @@
 ## VEGETACIÓN
 
 En el Municipio se presenta una diversidad biológica relevante en la vegetación con especies propias de la sierra, del llano semidesértico y de la costa (Figura 4). Predominan cactáceas como
-cardón ( _Pachycereus pringleii_ ), pitahayas ( _Stenocereus_ sp.), chollas ( _Opuntia_ sp.), biznagas
+cardón (_Pachycereus pringleii_), pitahayas ( _Stenocereus_ sp.), chollas ( _Opuntia_ sp.), biznagas
 ( _Ferocactus_ sp.), y otras especies como el mezquite ( _Prosopis_ sp.), palo adán ( _Fouquieria diguetii_ ),
 palo blanco ( _Lisyloma candida_ ), junco ( _Bebbia_ ), palo verde ( _Cercidium_ sp.), torote ( _Bursera_ sp.),
 lomboy ( _Jatropha cinerea_ ), uña de gato ( _Olneya tesota_ ), San Miguelito ( _Antigonon leptodus_ ),

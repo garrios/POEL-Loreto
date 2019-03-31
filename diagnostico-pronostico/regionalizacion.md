@@ -89,3 +89,4 @@ de agua, así como en las problemáticas de contaminación que se producen por l
 caso de considerar un número de ellas que suplan la carencia de agua. La construcción de hoteles y
 de los campos de golf proyectados debe ser cuidadosamente analizada en función de este recurso
 agua que es limitado.
+..
