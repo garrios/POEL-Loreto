@@ -1,61 +1,20 @@
-# Introducción
+# Antecedentes
 
-La Secretaría de Medio Ambiente y Recursos Naturales \(SEMARNAT\) ha establecido como no de sus programas prioritarios, impulsar la formulación e instrumentación de procesos de Ordenamientos Ecológicos Territoriales \(OE\) al nivel regional, estatal o municipal, de conformidad con el Reglamento de la Ley General del Equilibrio Ecológico y Protección al Ambiente en materia de Ordenamiento Ecológico \(LGEEPA 2003\). En cumplimiento con lo anterior el 29 de mayo de 2006 en la Ciudad de La Paz, BCS, se suscribió el Convenio de Coordinación del Ordenamiento Ecológico Local del Municipio de Loreto, el cual se llevó a cabo en coordinación con el Gobierno Federal, representado por la Secretaría de Medio Ambiente y Recursos Naturales \(SEMARNAT\), el Gobierno de Baja California Sur y el Municipio de Loreto, con el fin de iniciar un proceso de planeación que tiene como principal objetivo promover el desarrollo sustentable del Municipio.
+Eco-Alianza de Loreto A.C. es una Organización de la Sociedad Civil sin fines de lucro que promueve la Conservación de los Recursos Naturales y el Desarrollo Sustentable de la Región de Loreto; para estos fines participamos en colaboración con autoridades y grupos organizados de la sociedad civil en definir estrategias, y realizar acciones que permitan educar y sensibilizar a la ciudadanía sobre los temas que pueden tener impactos sobre la estabilidad y viabilidad de los ecosistemas de la región, así como en las actividades productivas y sociales que de ellos se sustentan. 
 
-En el Municipio de Loreto se entiende que en el Programa de Ordenamiento Ecológico Territorial \(POET\) se establecerán las actividades que se realicen dentro de un área específica que tengan mayor aptitud dentro del territorio, considerando todos los actores con intereses en el uso de la tierra como pescadores, desarrolladores turísticos y urbanos, organizaciones no gubernamentales, académicos y gente con intereses en la conservación \(Figura 1\), así como ganaderos y agricultores. Este es el primer proyecto de plan de ordenamiento ecológico territorial que se desarrolla para el Municipio de Loreto.
+En base a lo anterior, consideramos que la explotación de los recursos Minerales no renovables, a través de las actividades mineras y/o metalúrgicas, en la región de Loreto y específicamente en las áreas ya concesionadas para tal efecto, representan un alto riesgo para el bienestar general de la población y de los ecosistemas locales,  además de ser económicamente incompatibles a la vocación netamente turística de la región. Nuestro anterior argumento se fundamenta en los varios estudios académicos e institucionales, realizados para la región de Loreto; así como los planes, programas y designaciones de gobierno local, estatal, federal e internacional; que formalmente se encuentran establecidos y soportados por las leyes vigentes; en donde se consideraron y consensaron los aspectos culturales, sociales, ecológicos y económicos de Loreto. Ejemplo de ello son el Plan de Ordenamiento Ecológico Local \(POEL\) y  Plan Subregional de Desarrollo Urbano \(PSDU\) de Loreto;  así como las designaciones de Parque Nacional de la Bahía de Loreto, la de sitio RAMSAR, la de sitio Patrimonio de la Humanidad y recientemente la de Pueblo Mágico.
 
-```
-Figura 1. Sectores y elementos que se consideran para un Progarma de Ordenamiento Ecológico Territorial.
-```
+Reconocemos que de una manera contraria e incongruente existen grupos locales y foráneos que  generan especulación, división y desinformación entre la población, organizaciones civiles y  miembros del gobierno local. Esto grupos, continuamente realizan acciones de aparente tendencia, a mostrar que a nivel  Municipal existe una agenda promotora para el establecimiento de las actividades mineras y/o metalúrgicas en Loreto. Es de resaltar que las acciones realizadas por estos grupos hasta la fecha se podrían considerar de carácter muy superficial ya que carecen de soporte solido alguno, y sin sustento mas allá que en el interés expresado por los propios grupos que esperan verse beneficiados de esta actividad.
 
-En el presente documento se presenta la Etapa de Propuesta final, la cual en concreto incluye el Modelo de Ordenamiento obtenido. Para el desarrollo de esta Etapa de Propuesta se utilizaron los
+En este tenor, nuestra organización se a dado a la tarea de realizar un ejercicio trasparente que brinde información hacia la ciudadanía, sobre el origen, fase y destino de cualquier Iniciativa que proponga el establecimiento de las actividades mineras y/o metalúrgicas en la región de Loreto.
 
-insumos generados durante las etapas previas, Caracterización, Diagnóstico y Pronóstico, que se pueden resumir en:
+México como un país que ha mostrado ser líder internacional en materia ambiental por su amplia agenda de protección del patrimonio natural, ha establecido un marco legal para regular las actividades productivas, el cual busca  promover el desarrollo social y económico, sin que esto conlleve el deterioro del ambiente y la calidad de vida de su población; dentro de esta legislación se incluye el Programa de Ordenamiento Ecológico Local de Loreto, que básicamente hace imposible  el uso de la tierra para la actividad minera, ya que esta no es compatible con la vocación natural  del suelo definido bajo dicha ordenanza.
 
-* Los mapas de aptitud por sector
-* El mapa de conflictos ambientales
-* El mapa con las áreas para preservar, conservar, proteger o restaurar
-* El mapa con el escenario tendencial
-* El mapa con el escenario contextual, y
-* El mapa con el escenario estratégico
+Eco-Alianza de Loreto trabaja actualmente en un proyecto para la defensa del territorio que incluye las cuencas hidrológicas de la región \(suelo, agua y aire\), como una solución positiva de largo plazo para el futuro de Loreto.  Hemos designado recursos humanos y financieros, con el apoyo de varias fundaciones, a  fin de mejorar las capacidades y efectividad de la comunidad y el gobierno local, en la administracion y defensa de la vocacion territorial de Loreto.
 
-Como resultado del análisis e integración de todos estos elementos se obtiene la regionalización en unidades homogéneas con atributos físico-bióticos, socioeconómicos y de aptitud para cada sector, denominada Unidad de Gestión Ambiental \(UGA\). Una UGA es la unidad de área mínima estratégica del Ordenamiento Ecológico y debe contar con las políticas ecológicas, actividades a desarrollar de acuerdo con las aptitudes del terreno, lineamientos y estrategias ecológicas que permitan el desarrollo de las actividades productivas de una manera sustentable maximizando el consenso entre los sectores respecto a la utilización del territorio pero primordialmente minimizando los conflictos ambientales que el desarrollo de estas actividades podrían generar. Para ello se establecen de manera específica criterios de regulación ecológica que favorecen la protección ambiental sin afectar el desarrollo socioeconómico de los pobladores del Municipio.
+Los Visitantes de Loreto y sus residentes coinciden que viven un lugar hermoso, con muchas oportunidades para disfrutar de la naturaleza, la tierra y en el mar. El Municipio de Loreto, como la mayoría de BCS, necesita toda el agua que tiene, y más, para satisfacer las necesidades de los residentes, negocios locales, los agricultores y las operaciones de turismo que ayudan prosperar y crecer a Loreto. El POEL de Loreto reconoce el valor de los recursos naturales para la salud económica, social y ambiental del municipio. La intención del POEL es asegurar el futuro de las futuras generaciones de Loretanos.
 
-Para elaborar el estudio “Etapa de Propuesta para el Programa de Ordenamiento Ecológico Local del Municipio de Loreto, BCS”, se estableció el convenio de colaboración con el Centro de Investigaciones Biológicas del Noroeste \(CIBNOR\). Cumpliendo los compromisos establecidos en los Términos de Referencia del convenio, se hace entrega del Informe Técnico Final, que contiene el modelo de ordenamiento ecológico territorial local del Municipio de Loreto.
+> El documento original del POEL, su estudio tecnico y demas anexos, en los formatos originales se han perdido en la burocracia institucional, se intento a traves de varios canales obtener los archivos modelables para hacer una actualizacion y modernizacion de los mismos, pero fue imposible obtenerlos. El equipo de Eco-Alianza se vio en la necesidad de digital manualmente todos los elementos de informacion, este aun es un trabajo en progreso, que estamos elaborando y que seguiremos a lo largo del 2019, en paralelo a las acciones para re-establecer el Comite y Bitacora ambiental del POEL, lo que sigue acontinuacion son los elementos que dinamicamente se estaran actualizando. Para ello hemos recurrido a la filosofia de datos y codigo abierto, con la finalidad de no solo compartir la informacion que vayamos generando, sino tambien fomentar la participacion y colaboracion de los ciudadanos y oficiales de gobierno interesados.
 
-En este informe se presenta la siguiente información:
 
-1. La integración de las conclusiones y elementos primordiales de las etapas previas,
-
-   Caracterización, Diagnóstico, Pronóstico \(ver Figura 2\).
-
-2. Sistema de Información Geográfica integrado por todas las capas temátics utilizadas y generadas durante el desarrollo de las etapas \(Apéndice 1\).
-3. Mapa del Modelo de Ordenamiento Ecológico que incluye la delimitación de las Unidades de Gestión Ambiental \(UGA\) y la identificación individualizada la política ambiental correspondiente y las actividades de mayor aptitud.
-4. Archivo de metadatos del Modelo de Ordenamiento Ecológico.
-5. Tablas asociadas al Modelo de Ordenamiento Ecológico donde se señalen los lineamientos ecológicos que corresponden a cada UGA.
-6. Base de datos con las Políticas, Lineamientos, Estrategias Ecológicas, indicadores ambientales y Criterios de regulación.
-
-```text
-Figura 2. Diagrama de Etapas para la elaboración del Programa de Ordenamiento Ecológico Territorial
-~~~~~
-```
-
-## Indice
-
-### Diagnostico - Pronostico
-
-* [Características Físicas](diagnostico-pronostico/caracteristicas-fisicas.md)
-* [Características Biológicas](diagnostico-pronostico/caracteristicas-biologicas.md)
-* [Población](diagnostico-pronostico/poblacion.md)
-* [Análisis de Aptitud](diagnostico-pronostico/analisis-de-aptitud.md)
-* [Regionalización](diagnostico-pronostico/regionalizacion.md)
-* [Pronostico](diagnostico-pronostico/pronostico.md)
-
-### Propuesta
-
-* [Definición](https://github.com/bajaloreto/POEL-Loreto/tree/297b098d06970305ef88bf76a9b11b1ab629da4b/propuesta/definicion.md)
-* [Politicas ambientales](propuesta/politicas-ambientales.md)
-* [Lineamientos Ecológicos](propuesta/lineamientos-ecologicos.md)
-* [Estrategias Ecológicas](propuesta/estrategias-ecologicas.md)
-* [Criterios de regulación ecológica](propuesta/criterios-de-regulacion-ecologica.md)
 
