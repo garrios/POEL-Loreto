@@ -4,9 +4,8 @@ La Secretaría de Medio Ambiente y Recursos Naturales \(SEMARNAT\) ha establecid
 
 En el Municipio de Loreto se entiende que en el Programa de Ordenamiento Ecológico Territorial \(POET\) se establecerán las actividades que se realicen dentro de un área específica que tengan mayor aptitud dentro del territorio, considerando todos los actores con intereses en el uso de la tierra como pescadores, desarrolladores turísticos y urbanos, organizaciones no gubernamentales, académicos y gente con intereses en la conservación \(Figura 1\), así como ganaderos y agricultores. Este es el primer proyecto de plan de ordenamiento ecológico territorial que se desarrolla para el Municipio de Loreto.
 
-```text
+```
 Figura 1. Sectores y elementos que se consideran para un Progarma de Ordenamiento Ecológico Territorial.
-~~~~~
 ```
 
 En el presente documento se presenta la Etapa de Propuesta final, la cual en concreto incluye el Modelo de Ordenamiento obtenido. Para el desarrollo de esta Etapa de Propuesta se utilizaron los
