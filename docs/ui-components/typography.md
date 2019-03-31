@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Typography
+title: Typografia
 parent: UI Components
 nav_order: 1
 ---
 
-# Typography
+# Typografia
 {: .no_toc }
 
 ## Table of contents
