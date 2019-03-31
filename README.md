@@ -1,4 +1,4 @@
-# Contenido
+# Indice
 
 ## Diagnostico - Pronostico
 
@@ -11,10 +11,9 @@
 
 ## Propuesta
 
-* [Definición](propuesta/definicion.md)
+* [Definición](https://github.com/bajaloreto/POEL-Loreto/tree/297b098d06970305ef88bf76a9b11b1ab629da4b/propuesta/definicion.md)
 * [Politicas ambientales](propuesta/politicas-ambientales.md)
 * [Lineamientos Ecológicos](propuesta/lineamientos-ecologicos.md)
 * [Estrategias Ecológicas](propuesta/estrategias-ecologicas.md)
 * [Criterios de regulación ecológica](propuesta/criterios-de-regulacion-ecologica.md)
-
 
