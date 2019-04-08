@@ -2,7 +2,7 @@
 
 ## UBICACIÓN, DELIMITACIÓN DEL ÁREA
 
-El Municipio de Loreto se localiza en la parte central del estado de Baja California Sur, dentro de las coordenadas 26°33' 11" y 25°12' 15" latitud norte y 111° 46”22’ y 110°55”15’ longitud oeste. Presenta una superficie de 4,311 Km^2 , incluyendo el territorio de cinco islas que pertenecen a este Municipio, con un litoral de 223 kilómetros \(Figura 3\) \(INEGI 2000, Centro Estatal de Información 2001, Steinitz _et al_. 2005, Ayuntamiento de Loreto 2005, Centro Estatal de Información 2006\).
+*El Municipio de Loreto* se localiza en la parte central del estado de Baja California Sur, dentro de las coordenadas 26°33' 11" y 25°12' 15" latitud norte y 111° 46”22’ y 110°55”15’ longitud oeste. Presenta una superficie de 4,311 Km^2 , incluyendo el territorio de cinco islas que pertenecen a este Municipio, con un litoral de 223 kilómetros \(Figura 3\) \(INEGI 2000, Centro Estatal de Información 2001, Steinitz _et al_. 2005, Ayuntamiento de Loreto 2005, Centro Estatal de Información 2006\).
 
 El Municipio de Loreto se encuentra dividido, de acuerdo a las actividades económicas predominantes, en la micro-región Loreto que incluye las subdelegaciones de Tembabichi, Agua Verde, Colonia Zaragoza, Ligüi-Ensenada Blanca, San Nicolás y San Juan Londó. La otra división la conforma la microregión San Javier, que incluye la subdelegación de San Javier para un total de siete Subdelegaciones Municipales \(Figura 3\).
 
